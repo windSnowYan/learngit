@@ -6,3 +6,5 @@ Git branch dev(new)；modify readme.txt again,and don't add and commit.
 
 Git creating a new branch is quick and simple.
 
+Git first forword merge.
+
