@@ -12,3 +12,6 @@ Git merge in no--ff.
 
 Git [issue-101] git is a free software...
 
+Git this change [git stash] is prepared for bug branch,issue.
+
+
