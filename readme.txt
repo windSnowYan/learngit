@@ -8,3 +8,5 @@ Git creating a new branch is quick and simple.
 
 Git first forword merge.
 
+Git merge in no--ff.
+
