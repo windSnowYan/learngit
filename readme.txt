@@ -10,3 +10,5 @@ Git first forword merge.
 
 Git merge in no--ff.
 
+Git this change is prepared for bug branch,issue.
+
